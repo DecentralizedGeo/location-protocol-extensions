@@ -24,7 +24,6 @@ The general structure is:
 
 `<format>-<type>[-<additional_details>]`
 
-
 Where:
 - **`format`:** Specifies the underlying data format or family (e.g., `coordinate`, `geojson`, `wkt`, `geohash`, `raster`).
 - **type:** Indicates the feature type or data subtype (e.g., `decimal`, `point`, `polygon`, `geotiff`). Note that this is recommended, but not required, and for some format types, not relevant.
