@@ -1,5 +1,7 @@
 # Location Proof Protocol v0.1: `locationType`
 
+**Note: Documentation for the Location Extensions Library is live at https://docs.astral.global/location-protocol/location-types**
+
 To ensure location proofs are as versatile as possible, we are giving users / developers the option of creating proofs that adhere to any
 location type.
 
